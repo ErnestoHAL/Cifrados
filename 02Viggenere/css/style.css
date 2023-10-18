@@ -57,6 +57,16 @@ textarea {
     color: #fff;
 }
 
+.option {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
 /* Estilos para centrar el contenedor */
 .center-block {
     display: flex;
